@@ -1,0 +1,11 @@
+Check-list for Android app
+1. Installation/Uninstallation
+2. Launching the application
+3. Choose image screen via Camera
+4. Choose image screen via Gallery
+5. Sky REmoving screen
+6. Work area screen
+7. Share screen
+8. Feedback screen
+9. Usability testing
+10. Interruption testing
